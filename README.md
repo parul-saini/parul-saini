@@ -1,4 +1,4 @@
-[![MasterHead](https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif)](https://parul-saini.github.io)
+
 <h1 align="center">Hi there👋, I'm Parul Saini</h1>
 <h3 align="center">I love to explore full stack web development and take up new challenges.</h3>
 <img align="right" alt="Coding" width="200" src="https://img.freepik.com/free-vector/woman-operating-laptop-cartoon-illustration_107767-119.jpg?w=740">
