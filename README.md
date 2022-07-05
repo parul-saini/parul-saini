@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there👋, I'm Parul Saini</h1>
 <h3 align="center">I love to explore full stack web development and take up new challenges.</h3>
-<img align="right" alt="Coding" width="200" height="200" src="https://img.freepik.com/free-vector/woman-operating-laptop-cartoon-illustration_107767-119.jpg?w=740">
+<img align="right" alt="Coding" width="400" height="300" src="https://img.freepik.com/free-vector/woman-operating-laptop-cartoon-illustration_107767-119.jpg?w=740">
 
 
 - 🔭 I’m currently working on **frontened projects**
