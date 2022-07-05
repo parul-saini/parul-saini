@@ -7,10 +7,13 @@
 <img align="right" alt="Coding" width="200" height="200" src="https://img.freepik.com/free-vector/woman-operating-laptop-cartoon-illustration_107767-119.jpg?w=740">
 
 
+- 🔭 I’m currently working on **frontened projects**
 
 - 🌱 I’m currently learning **full stack web development**
 
 - 📫 How to reach me **sainiparul700@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
