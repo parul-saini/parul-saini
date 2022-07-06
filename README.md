@@ -33,10 +33,10 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=parul-saini&theme=monokai" alt="Deeksha2501" /></a> </p>
 
 
- <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=parul-saini&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="Parul's github stats" />
+ <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=parul-saini&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="Parul's github stats" />
 
  
-<img align="left"  height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=parul-saini&theme=monokai" alt="parul-saini"/>
+<img align="left"  height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=parul-saini&theme=monokai" alt="parul-saini"/>
 
 
 
