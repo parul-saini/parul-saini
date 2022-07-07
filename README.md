@@ -30,7 +30,7 @@
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parul-saini&show_icons=true&locale=en" alt="parul-saini" /></p> -->
 
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=parul-saini&theme=monokai" alt="Deeksha2501" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=parul-saini&theme=monokai" alt="Parul-saini" /></a> </p>
 
 
  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=parul-saini&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="Parul's github stats" />
