@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" height="300" src="https://img.freepik.com/free-vector/woman-operating-laptop-cartoon-illustration_107767-119.jpg?w=740">
 
 
-- 🔭 I’m currently working on **frontened projects**
+- 🔭 I’m currently working on **MERN projects**
 
 - 🌱 I’m currently learning **full stack web development**
 
