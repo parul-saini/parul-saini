@@ -40,7 +40,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Deeksha2501/count.svg" />
+  <img src="https://profile-counter.glitch.me/parul-saini/count.svg" />
 </p>
 
 
