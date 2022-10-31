@@ -38,10 +38,13 @@
  
 <img align="left"  height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=parul-saini&theme=monokai" alt="parul-saini"/>
 
+
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/parul-saini/count.svg" />
+ <img src="https://profile-counter.glitch.me/parul-saini/count.svg" width="400" height="50" />
+  <br>Visitor count
 </p>
+ 
+
 
 
 <!--most lang used: <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parul-saini&show_icons=true&locale=en&layout=compact" alt="parul-saini" /></p> 
