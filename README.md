@@ -49,14 +49,14 @@
 
 <div width="100px">
 <div>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=parul-saini&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="Parul's github stats" />
+<img align="left" height="130px" src="https://github-readme-stats.vercel.app/api?username=parul-saini&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="Parul's github stats" />
 </div>
 <div>
-<img align="left"  height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=parul-saini&theme=monokai" alt="parul-saini"/>
+<img align="left"  height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=parul-saini&theme=monokai" alt="parul-saini"/>
 </div> 
  
 <div>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parul-saini&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff&hide=EJS" />
+<img align="left" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parul-saini&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff&hide=EJS" />
 </div>
 </div>
 
